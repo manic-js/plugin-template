@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/manic-js/manic/main/demo/assets/wordmark.svg" alt="Manic" width="300" />
+<img src="https://raw.githubusercontent.com/Rahuletto/manic/main/demo/assets/wordmark.svg" alt="Manic" width="300" />
 
 [![Bun](https://img.shields.io/badge/runtime-Bun-black?logo=bun)](https://bun.sh)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)](https://opensource.org/licenses/GPL-3.0)
