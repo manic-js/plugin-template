@@ -22,9 +22,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "peerDependencies": {
-    "manicjs": ">=1.0.0"
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "simple-git-hooks": "^2.13.1"
   },
