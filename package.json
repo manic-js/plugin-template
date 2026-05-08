@@ -1,0 +1,28 @@
+{
+  "name": "@manicjs/plugin-template",
+  "version": "0.1.0",
+  "description": "Fork-ready template repository for building custom Manic plugins.",
+  "type": "module",
+  "homepage": "https://github.com/manic-js/plugin-template#readme",
+  "bugs": {
+    "url": "https://github.com/manic-js/plugin-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manic-js/plugin-template"
+  },
+  "license": "GPL-3.0",
+  "files": [
+    "src/**/*",
+    "README.md"
+  ],
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "manicjs": ">=1.0.0"
+  }
+}
