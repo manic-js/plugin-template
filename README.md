@@ -3,7 +3,6 @@
 [![Bun](https://img.shields.io/badge/runtime-Bun-black?logo=bun)](https://bun.sh)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)](https://opensource.org/licenses/GPL-3.0)
 
-The fastest framework for React.
 
 ## Plugin Template
 
@@ -38,3 +37,5 @@ export default defineConfig({
 ## License
 
 GPL-3.0
+
+Fork-ready template repository for building custom Manic plugins.
